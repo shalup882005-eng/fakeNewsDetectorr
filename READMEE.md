@@ -44,7 +44,7 @@ pip install -r requirements.txt
 Train the model (run this first, only needs to be done once unless you
 change something):
 ```
-python train_model.py
+python train_modell.py
 ```
 This will take a few minutes since there's a lot of rows. It prints out
 accuracy/precision/recall/F1 for both models so you can see the
